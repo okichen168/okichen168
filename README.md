@@ -5,7 +5,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
           <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.png">
-          <img src="./assets/header-light.png" width="85%" alt="Hello! I’m Oki — learning by building">
+          <img src="./assets/header-light.png" width="78%" alt="Hello! I’m Oki — learning by building">
         </picture>
         <img src="./assets/wave.gif" width="32" alt="A small waving hand">
       </p>
