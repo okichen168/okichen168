@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="./assets/hi-cat.gif" width="8%" align="middle" alt="A cream-and-caramel cat waving hello">
-  <picture>
+<p align="center"><img src="./assets/hi-cat.gif" width="10%" align="middle" alt="A cream-and-caramel cat waving hello"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.png">
-    <img src="./assets/header-light.png" width="62%" align="middle" alt="Hello! I’m Oki — learning by building">
-  </picture>
-  <img src="./assets/coding-cat.gif" width="13%" align="middle" alt="The same cat wearing glasses and typing at a laptop">
-</p>
+    <img src="./assets/header-light.png" width="60%" align="middle" alt="Hello! I’m Oki — learning by building">
+  </picture><img src="./assets/coding-cat.gif" width="16%" align="middle" alt="The same cat wearing glasses and typing at a laptop"></p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
