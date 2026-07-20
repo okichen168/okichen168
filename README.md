@@ -5,7 +5,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
           <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.png">
-          <img src="./assets/header-light.png" width="470" alt="Hello! I’m Oki — learning by building">
+          <img src="./assets/header-light.png" width="85%" alt="Hello! I’m Oki — learning by building">
         </picture>
         <img src="./assets/wave.gif" width="32" alt="A small waving hand">
       </p>
@@ -19,7 +19,7 @@
       </p>
     </td>
     <td width="34%" valign="middle" align="center">
-      <img src="./assets/oki-working.gif" width="210" alt="Oki working at a laptop, blinking and typing">
+      <img src="./assets/oki-working.gif" width="100%" alt="Oki working at a laptop, blinking and typing">
     </td>
   </tr>
 </table>
