@@ -10,7 +10,7 @@
         <img src="./assets/wave.gif" width="32" alt="A small waving hand">
       </p>
       <p align="center">
-        <a href="https://git.io/typing-svg">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3200&pause=900&color=F47C7C&center=true&vCenter=true&repeat=true&width=620&height=88&lines=Curious+about+how+things+work;Learning+by+building%2C+one+project+at+a+time;Making+small+tools+for+real+problems;Early+in+the+journey%2C+serious+about+the+work" width="100%" alt="Curious about how things work. Learning by building, one project at a time. Making small tools for real problems. Early in the journey, serious about the work.">
         </a>
       </p>
