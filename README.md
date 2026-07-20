@@ -58,5 +58,5 @@ An AI-powered clarity tool for difficult conversations — designed to help peop
 <br>
 
 <p align="center">
-  <sub>Small experiments, honest iterations, useful outcomes.</sub>
+  <sub>Small experiments, honest iterations, useful outcomes — one thoughtful build at a time.</sub>
 </p>
